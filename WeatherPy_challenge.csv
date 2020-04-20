@@ -1,4 +1,4 @@
-,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Current Description,Rain inches (last 3 hrs),Snow inches (last 3 hrs),Date
+,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description,Rain inches (last 3 hrs),Snow inches (last 3 hrs)
 0,Aguimes,27.91,-15.45,66.2,63,20,16.11,ES,few clouds,0.0,0.0,2020-04-19 22:52:18
 1,Itarema,-2.92,-39.92,77.83,86,18,3.76,BR,light rain,0.77,0.0,2020-04-19 22:52:18
 2,Kodiak,57.79,-152.41,44.6,87,75,9.17,US,broken clouds,0.0,0.0,2020-04-19 22:52:18
