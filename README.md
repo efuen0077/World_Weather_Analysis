@@ -31,5 +31,6 @@ Create a Travel Itinerary with a Corresponding Map
 
 ##### *** Corresponding Map ***
 
+<img width="856" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/62089134/79718882-02152e00-8292-11ea-8456-d5cba74c0ddb.png">
 
 
