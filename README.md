@@ -13,7 +13,7 @@ Get the Weather Description and Amount of Precipitation for Each City.
 [WeatherPy_challenge.csv.zip](https://github.com/efuen0077/World_Weather_Analysis/files/4501353/WeatherPy_challenge.csv.zip)
 
  Q: How many cities have recorded rainfall or snow? 
- A: 
+ A: Using filters, there are 82 cities that have recorded rainfall or snow.
 
 #### Part 2
 Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation.
