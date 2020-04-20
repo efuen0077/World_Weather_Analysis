@@ -31,6 +31,8 @@ Create a Travel Itinerary with a Corresponding Map
 
 ##### *** Corresponding Map ***
 
+I was able to create a new DataFrame with 4 cities in the same continent. Also, I was able to use this information in order to generate a map with markers for the 4 cities.
+
 [Vacation_Itinerary.ipynb.zip](https://github.com/efuen0077/World_Weather_Analysis/files/4501556/Vacation_Itinerary.ipynb.zip)
 
 <img width="856" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/62089134/79718882-02152e00-8292-11ea-8456-d5cba74c0ddb.png">
